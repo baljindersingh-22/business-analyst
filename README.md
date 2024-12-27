@@ -19,21 +19,23 @@
 
 <h2>📔 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [BCS Business Analysis Practice Practitioner](https://www.credly.com/badges/bcbd67a0-3f81-4522-8a6a-c7791cfba569/public_url)
+- [BCS Business Analysis Foundation Certificate](https://www.credly.com/badges/17ec488d-ea4f-478c-8f3d-d527e240876c/public_url)
+- [IBM - Introduction to Agile Development and Scrum](https://www.credly.com/badges/0b8279ec-718b-46b9-b2d9-9adcd6d793d9/public_url)
+- [IBM - Project Management Essentials](https://www.credly.com/badges/aebee3a2-b392-4901-a4ab-574565dcfa82/public_url)
+- [IBM - Fundamentals of Business Analysis](https://www.credly.com/badges/38599a20-5059-46ae-a6d7-bd9ea96244b9/public_url)
+- [London Business School - Fundamentals of Financial Analysis](https://coursera.org/share/25f1e79fd7e775a598608ee25c7edd1a)
+- [ How to create a Jita SCRUM project](https://coursera.org/share/73d792aa8f19b8893da3499453d8d4af)
+
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 [twitter]: https://twitter.com/
-[linkedin]: https://linkedin.com/in/
+[linkedin]: www.linkedin.com/in/baljinder24
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
